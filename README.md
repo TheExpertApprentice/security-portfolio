@@ -63,7 +63,7 @@ I was responsible for the end-to-end delivery of this exercise:
 
 ## Lesson Learnt
 
-My sincere refelections on this exercise are expressed here: [Honest Reflections & Lessons Learned (PDF)](https://github.com/TheExpertApprentice/security-portfolio/blob/main/Honest_Reflections_%26_Lessons_Learned.pdf)
+My sincere reflections on this exercise are expressed here: [Honest Reflections & Lessons Learned (PDF)](https://github.com/TheExpertApprentice/security-portfolio/blob/main/Honest_Reflections_%26_Lessons_Learned.pdf)
 
 ---
 
