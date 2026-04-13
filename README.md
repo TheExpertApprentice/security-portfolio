@@ -20,7 +20,7 @@ a simulated network intrusion — specifically, unusual external scanning
 activity targeting both an external-facing web portal and an internal
 database system simultaneously.
 
-The full report is available here: [View Report (PDF)](./Q1-2026-Tabletop-Report.pdf)
+The full report is available here: [View Report (PDF)](To be uploaded soon)
 
 ---
 
