@@ -20,7 +20,7 @@ a simulated network intrusion — specifically, unusual external scanning
 activity targeting both an external-facing web portal and an internal
 database system simultaneously.
 
-The full report is available here: [View Report (PDF)](To be uploaded soon)
+The full report is available here: [View Report (PDF)](https://github.com/TheExpertApprentice/security-portfolio/blob/main/Redacted_Tabletop_Exercise_Report.pdf)
 
 ---
 
@@ -63,7 +63,7 @@ I was responsible for the end-to-end delivery of this exercise:
 
 ## Lesson Learnt
 
-My sincere refelections on this exercise are expressed here: [Honest Reflections & Lessons Learned (PDF)](To be uploaded soon)
+My sincere refelections on this exercise are expressed here: [Honest Reflections & Lessons Learned (PDF)](https://github.com/TheExpertApprentice/security-portfolio/blob/main/Honest_Reflections_%26_Lessons_Learned.pdf)
 
 ---
 
