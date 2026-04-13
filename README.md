@@ -63,7 +63,7 @@ I was responsible for the end-to-end delivery of this exercise:
 
 ## Lesson Learnt
 
-
+My sincere refelections on this exercise are expressed here: [Honest Reflections & Lessons Learned (PDF)](To be uploaded soon)
 
 ---
 
